@@ -1,840 +1,825 @@
 {"0":{
-    "author": "t2_z3zzd",
+    "author": 1558570077.0,
     "tag": "Impressionism",
     "url": "https://i.redd.it/db5rd6qvdsz21.jpg"
 },
 "1":{
-    "author": "t2_x0og7",
+    "author": 1574595199.0,
     "tag": "Abstract",
     "url": "https://i.redd.it/j1rr8sms0k041.jpg"
 },
 "2":{
-    "author": "t2_1ynrmfq6",
+    "author": 1558385951.0,
     "tag": "Northern_Baroque_",
     "url": "https://i.redd.it/ryaj3kqd6dz21.jpg"
 },
 "3":{
-    "author": "t2_bsh7w",
+    "author": 1501708668.0,
     "tag": "Impressionism",
     "url": "http://i.imgur.com/MiDB1ar.jpg"
 },
 "4":{
-    "author": "t2_3c5p3wk5",
+    "author": 1559656034.0,
     "tag": "Post-Impressionism",
     "url": "https://i.redd.it/9ex93peht7231.jpg"
 },
 "5":{
-    "author": "t2_2i2r2k3f",
+    "author": 1558968724.0,
     "tag": "Renaissance",
     "url": "https://i.redd.it/6eiy0ib9bp031.png"
 },
 "6":{
-    "author": "t2_oakdr",
+    "author": 1560284735.0,
     "tag": "Between_Renaissance_and_Mannarism_but_be_nice_to_OP",
     "url": "https://i.redd.it/px541blf0q331.jpg"
 },
 "7":{
-    "author": "t2_4uocw",
+    "author": 1586542692.0,
     "tag": "Surrealism",
     "url": "https://i.redd.it/xrwj40qtuyr41.jpg"
 },
 "8":{
-    "author": "t2_6m51f",
+    "author": 1572186721.0,
     "tag": "Abstract",
     "url": "https://i.redd.it/q61w36t131v31.png"
 },
 "9":{
-    "author": "t2_137rfn",
+    "author": 1559133532.0,
     "tag": "Ukiyo-e",
     "url": "https://i.imgur.com/OoBrKdK.jpg"
 },
 "10":{
-    "author": "t2_3fihhuzw",
+    "author": 1558889582.0,
     "tag": "Northern_Baroque_",
     "url": "https://i.redd.it/ulqj6h88qi031.jpg"
 },
 "11":{
-    "author": "t2_23j5uq9w",
+    "author": 1566693757.0,
     "tag": "Cubism",
     "url": "https://i.redd.it/angkw61xabi31.jpg"
 },
 "12":{
-    "author": "t2_4fvx2",
+    "author": 1579345855.0,
     "tag": "Realism",
     "url": "https://i.redd.it/ctago6erleb41.jpg"
 },
 "13":{
-    "author": "t2_16xu2q",
+    "author": 1577686670.0,
     "tag": "Regionalism",
     "url": "https://i.redd.it/nbf6kvcbwm741.jpg"
 },
 "14":{
-    "author": "t2_y0r4z",
+    "author": 1568680026.0,
     "tag": "Impressionism",
     "url": "https://i.redd.it/116heo3xfzm31.jpg"
 },
 "15":{
-    "author": "t2_bsh7w",
+    "author": 1498179879.0,
     "tag": "Realism",
     "url": "https://i.imgur.com/zLSH0x0.jpg"
 },
 "16":{
-    "author": "t2_114r45",
+    "author": 1580717567.0,
     "tag": "Cyberpunk",
     "url": "https://i.redd.it/4v6o2zmqple41.png"
 },
 "17":{
-    "author": "t2_3qkz88ls",
+    "author": 1569369456.0,
     "tag": "Neoimpressionism",
     "url": "https://i.redd.it/tlpgcwnfvco31.jpg"
 },
 "18":{
-    "author": "t2_284nond7",
+    "author": 1577066475.0,
     "tag": "Post-Impressionism",
     "url": "https://i.redd.it/mdj0ep03x7641.jpg"
 },
 "19":{
-    "author": "t2_8qit7",
+    "author": 1558262062.0,
     "tag": "Romanticism",
     "url": "https://i.redd.it/q94xby3yx2z21.jpg"
 },
 "20":{
-    "author": "t2_3kd4c6mm",
+    "author": 1560661543.0,
     "tag": "Baroque",
     "url": "https://i.redd.it/lwdnq3ou4l431.jpg"
 },
 "21":{
-    "author": "t2_144jl0",
+    "author": 1594176117.0,
     "tag": "American_Luminism",
     "url": "https://i.redd.it/m1emymxwch951.jpg"
 },
 "22":{
-    "author": "t2_2jnqtw8o",
+    "author": 1558694505.0,
     "tag": "Realism",
     "url": "https://i.redd.it/lb5xhz3sm2031.jpg"
 },
 "23":{
-    "author": "t2_17bsqv",
+    "author": 1568836024.0,
     "tag": "Impressionism",
     "url": "https://i.imgur.com/Cx8ceha.jpg"
 },
 "24":{
-    "author": "t2_11glew",
+    "author": 1583746358.0,
     "tag": "Cubism",
     "url": "https://i.redd.it/79mnpv2wvjl41.jpg"
 },
 "25":{
-    "author": "t2_48e6fv8i",
+    "author": 1596236581.0,
     "tag": "Impressionism",
     "url": "https://i.redd.it/6t95jciqj7e51.jpg"
 },
 "26":{
-    "author": "t2_3q6ftdr4",
+    "author": 1587943777.0,
     "tag": "Pop_Art",
     "url": "https://i.redd.it/bpbhuvmyk6v41.jpg"
 },
 "27":{
-    "author": "t2_6m51f",
+    "author": 1571900062.0,
     "tag": "Abstract",
     "url": "https://i.redd.it/yf871toredu31.png"
 },
 "28":{
-    "author": "t2_laik2",
+    "author": 1563884660.0,
     "tag": "Romanticism",
     "url": "https://i.redd.it/09t84y33mxb31.jpg"
 },
 "29":{
-    "author": "t2_j8jxl",
+    "author": 1578171950.0,
     "tag": "Modernism",
     "url": "https://i.redd.it/fz7jnjssfo841.jpg"
 },
 "30":{
-    "author": "t2_tuz7p",
+    "author": 1582179276.0,
     "tag": "Mildly_Realism",
     "url": "https://i.imgur.com/lRuhGxT.jpg"
 },
 "31":{
-    "author": "t2_6ldibnuu",
+    "author": 1611027956.0,
     "tag": "Neoclassicism",
     "url": "https://i.imgur.com/BghPjVm.png"
 },
 "32":{
-    "author": "t2_9qnph",
+    "author": 1599646030.0,
     "tag": "Surrealism",
     "url": "https://i.redd.it/c4d2tvxsryl51.jpg"
 },
 "33":{
-    "author": "t2_o3kpe",
+    "author": 1584964426.0,
     "tag": "Impressionism",
     "url": "https://i.redd.it/zyu3fp2thco41.jpg"
 },
 "34":{
-    "author": "t2_17bsqv",
+    "author": 1578571497.0,
     "tag": "Impressionism",
     "url": "https://i.redd.it/v8n13g3bgo941.jpg"
 },
 "35":{
-    "author": "t2_11lh0n",
+    "author": 1545419995.0,
     "tag": "Post-Impressionism",
     "url": "https://i.redd.it/3oa37bfx7m521.jpg"
 },
 "36":{
-    "author": "t2_iolve",
+    "author": 1610160156.0,
     "tag": "Renaissance",
     "url": "https://i.redd.it/kt2pefd3l5a61.jpg"
 },
 "37":{
-    "author": "t2_2i2r2k3f",
+    "author": 1554145196.0,
     "tag": "Renaissance",
     "url": "https://i.redd.it/5wk1x35kujp21.jpg"
 },
 "38":{
-    "author": "t2_pxqhq",
+    "author": 1585645497.0,
     "tag": "Baroque",
     "url": "https://i.redd.it/d5kth8mylup41.jpg"
 },
 "39":{
-    "author": "t2_7b2ya",
+    "author": 1585904765.0,
     "tag": "Art_Deco",
     "url": "https://i.imgur.com/Pl1SzEL.png"
 },
 "40":{
-    "author": "t2_2pfqr6y",
+    "author": 1572507843.0,
     "tag": "Realism",
     "url": "https://i.redd.it/ldprdwwylrv31.png"
 },
 "41":{
-    "author": "t2_6s9i2la",
+    "author": 1600476779.0,
     "tag": "Impressionism",
     "url": "https://i.imgur.com/T8gUKcI.jpg"
 },
 "42":{
-    "author": "t2_11j3gu",
+    "author": 1558504151.0,
     "tag": "Regionalism",
     "url": "https://imgur.com/do3MOdv"
 },
 "43":{
-    "author": "t2_c46gk",
+    "author": 1576259631.0,
     "tag": "Baroque",
     "url": "https://i.redd.it/csuzd8hum8441.jpg"
 },
 "44":{
-    "author": "t2_tzmoi",
+    "author": 1573873260.0,
     "tag": "Contemporary",
     "url": "https://i.redd.it/uugrglc3ewy31.jpg"
 },
 "45":{
-    "author": "t2_3x6rjy5d",
+    "author": 1584217608.0,
     "tag": "Post-Modernism",
     "url": "https://i.redd.it/y5fiy1j5tmm41.jpg"
 },
 "46":{
-    "author": "t2_4pp1zp2k",
+    "author": 1586843192.0,
     "tag": "Realism",
     "url": "https://i.redd.it/98g56bbdons41.jpg"
 },
 "47":{
-    "author": "t2_c46gk",
+    "author": 1582097552.0,
     "tag": "Pre-Raphaelite",
     "url": "https://i.redd.it/ap3oson64rh41.jpg"
 },
 "48":{
-    "author": "t2_du8ay",
+    "author": 1576124165.0,
     "tag": "Renaissance",
     "url": "https://i.imgur.com/VWErkDA.jpg"
 },
 "49":{
-    "author": "t2_3rl8bu62",
+    "author": 1558415284.0,
     "tag": "Renaissance",
     "url": "https://i.redd.it/ihdsbntllfz21.jpg"
 },
 "50":{
-    "author": "t2_13mwh3",
+    "author": 1613112253.0,
     "tag": "Realism",
     "url": "https://i.imgur.com/VtczzmH.jpg"
 },
 "51":{
-    "author": "t2_bb1qu",
+    "author": 1589849770.0,
     "tag": "Pointillism",
     "url": "https://i.redd.it/f8dgo6ai1jz41.jpg"
 },
 "52":{
-    "author": "t2_88h2qfn",
+    "author": 1565833609.0,
     "tag": "Renaissance",
     "url": "https://i.redd.it/8ymere8iwcg31.jpg"
 },
 "53":{
-    "author": "t2_4pp1zp2k",
+    "author": 1588015032.0,
     "tag": "Impressionism",
     "url": "https://i.redd.it/js5s6qlugcv41.jpg"
 },
 "54":{
-    "author": "t2_y19bdfw",
+    "author": 1592739484.0,
     "tag": "Brutalism",
     "url": "https://i.redd.it/ut66v3pla3651.jpg"
 },
 "55":{
-    "author": "t2_ftlt52r",
+    "author": 1590514415.0,
     "tag": "Realism",
     "url": "https://i.redd.it/bbgfg52je0151.jpg"
 },
 "56":{
-    "author": "t2_31e24",
+    "author": 1576968724.0,
     "tag": "Art_Nouveau",
     "url": "https://i.imgur.com/78g2xwi.jpg"
 },
 "57":{
-    "author": "t2_118y7p1s",
+    "author": 1575630991.0,
     "tag": "Cubism",
     "url": "https://i.imgur.com/15yLKjH.jpg"
 },
 "58":{
-    "author": "t2_bplnt",
+    "author": 1580375289.0,
     "tag": "Baroque",
     "url": "https://i.redd.it/66evljc9rrd41.jpg"
 },
 "59":{
-    "author": "t2_6m51f",
+    "author": 1573293632.0,
     "tag": "Abstract_Expressionism",
     "url": "https://i.redd.it/o8rpqo3kikx31.jpg"
 },
 "60":{
-    "author": "t2_3e358vv8",
+    "author": 1554714777.0,
     "tag": "Baroque",
     "url": "https://i.redd.it/ca5c2vo2yxq21.jpg"
 },
 "61":{
-    "author": "t2_2u9uezjt",
+    "author": 1555460607.0,
     "tag": "Cubism",
     "url": "https://i.redd.it/nap7jcatyls21.jpg"
 },
 "62":{
-    "author": "t2_9aapd61d",
+    "author": 1613777086.0,
     "tag": "Surrealism",
     "url": "https://i.redd.it/170sfn2krdi61.jpg"
 },
 "63":{
-    "author": "t2_c46gk",
+    "author": 1565230542.0,
     "tag": "Romanticism",
     "url": "https://i.redd.it/093rd53vi2f31.jpg"
 },
 "64":{
-    "author": "t2_yfj4m",
+    "author": 1608822178.0,
     "tag": "Realism",
     "url": "https://i.imgur.com/PskhIVz.jpg"
 },
 "65":{
-    "author": "t2_5u8vgprs",
+    "author": 1605547535.0,
     "tag": "Renaissance",
     "url": "https://i.imgur.com/kPb3yLr.jpg"
 },
 "66":{
-    "author": "t2_4pp1zp2k",
+    "author": 1587032230.0,
     "tag": "Pop_Art",
     "url": "https://i.redd.it/6hgnqt2ha3t41.jpg"
 },
 "67":{
-    "author": "t2_1mkydhei",
+    "author": 1579432647.0,
     "tag": "Orientalism",
     "url": "https://i.redd.it/kxztyvc0lnb41.jpg"
 },
 "68":{
-    "author": "t2_15e2ksmk",
+    "author": 1594365785.0,
     "tag": "Impressionism",
     "url": "https://i.redd.it/0144conykt951.jpg"
 },
 "69":{
-    "author": "t2_11k2gz",
+    "author": 1549603067.0,
     "tag": "Contemporary",
     "url": "https://i.redd.it/u9bsvfqry5f21.jpg"
 },
 "70":{
-    "author": "t2_1lyk01eh",
+    "author": 1581039245.0,
     "tag": "Surrealism",
     "url": "https://i.redd.it/ldj365z8acf41.jpg"
 },
 "71":{
-    "author": "t2_blhzs",
-    "tag": "Renaissance",
-    "url": "https://i.redd.it/9suqmi6uzm151.jpg"
-},
-"72":{
-    "author": "t2_32n5gusr",
+    "author": 1611226062.0,
     "tag": "Modernism",
     "url": "https://i.redd.it/hcnvt5o5nlc61.jpg"
 },
+"72":{
+    "author": 1590757719.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/9suqmi6uzm151.jpg"
+},
 "73":{
-    "author": "t2_jbcio",
+    "author": 1605397616.0,
     "tag": "Romanticism",
     "url": "https://i.redd.it/fl4rwj0788z51.jpg"
 },
 "74":{
-    "author": "t2_bplnt",
+    "author": 1588456443.0,
     "tag": "Post-Modernism",
     "url": "https://i.redd.it/9zmhje2x0cw41.jpg"
 },
 "75":{
-    "author": "t2_5df95xwa",
+    "author": 1587759182.0,
     "tag": "Renaissance",
     "url": "https://i.redd.it/wvljuszdequ41.jpg"
 },
 "76":{
-    "author": "t2_75lx6xh",
+    "author": 1570586449.0,
     "tag": "Cubism",
     "url": "https://i.redd.it/0338w2a36br31.jpg"
 },
 "77":{
-    "author": "t2_h8u8j",
+    "author": 1575867679.0,
     "tag": "Romanticism",
     "url": "https://i.redd.it/l9fthbui4h341.jpg"
 },
 "78":{
-    "author": "t2_3wmh1",
+    "author": 1567127838.0,
     "tag": "Neoimpressionism",
     "url": "https://i.redd.it/m1himn8aiej31.jpg"
 },
 "79":{
-    "author": "t2_cvqi7",
+    "author": 1606431552.0,
     "tag": "Contemporary",
     "url": "https://i.redd.it/pykjh81zg8n41.jpg"
 },
 "80":{
-    "author": "t2_2drx37cg",
+    "author": 1589695243.0,
     "tag": "Renaissance",
     "url": "https://i.redd.it/uyvu2dv7x5z41.jpg"
 },
 "81":{
-    "author": "t2_4d7he7xl",
+    "author": 1613899932.0,
     "tag": "Realism",
     "url": "https://i.redd.it/4z4t61w1doi61.jpg"
 },
 "82":{
-    "author": "t2_7bih5w",
-    "tag": "Abstract_Expressionism",
-    "url": "https://i.redd.it/4v3hgigvd5k51.jpg"
+    "author": 1614994484.0,
+    "tag": "Realism",
+    "url": "https://i.redd.it/gk3okwbr17l61.jpg"
 },
 "83":{
-    "author": "t2_bplnt",
-    "tag": "Post-Impressionism",
-    "url": "https://i.redd.it/ukhh4idn4ca41.jpg"
-},
-"84":{
-    "author": "t2_3v5gapa9",
-    "tag": "Realism",
-    "url": "https://i.redd.it/u5flecmda9q51.jpg"
-},
-"85":{
-    "author": "t2_2jnqtw8o",
-    "tag": "Realism",
-    "url": "https://i.redd.it/lb5xhz3sm2031.jpg"
-},
-"86":{
-    "author": "t2_17bsqv",
-    "tag": "Impressionism",
-    "url": "https://i.imgur.com/Cx8ceha.jpg"
-},
-"87":{
-    "author": "t2_11glew",
-    "tag": "Cubism",
-    "url": "https://i.redd.it/79mnpv2wvjl41.jpg"
-},
-"88":{
-    "author": "t2_48e6fv8i",
-    "tag": "Impressionism",
-    "url": "https://i.redd.it/6t95jciqj7e51.jpg"
-},
-"89":{
-    "author": "t2_3q6ftdr4",
-    "tag": "Pop_Art",
-    "url": "https://i.redd.it/bpbhuvmyk6v41.jpg"
-},
-"90":{
-    "author": "t2_6m51f",
-    "tag": "Abstract",
-    "url": "https://i.redd.it/yf871toredu31.png"
-},
-"91":{
-    "author": "t2_laik2",
-    "tag": "Romanticism",
-    "url": "https://i.redd.it/09t84y33mxb31.jpg"
-},
-"92":{
-    "author": "t2_j8jxl",
-    "tag": "Modernism",
-    "url": "https://i.redd.it/fz7jnjssfo841.jpg"
-},
-"93":{
-    "author": "t2_tuz7p",
-    "tag": "Mildly_Realism",
-    "url": "https://i.imgur.com/lRuhGxT.jpg"
-},
-"94":{
-    "author": "t2_6ldibnuu",
-    "tag": "Neoclassicism",
-    "url": "https://i.imgur.com/BghPjVm.png"
-},
-"95":{
-    "author": "t2_9qnph",
-    "tag": "Surrealism",
-    "url": "https://i.redd.it/c4d2tvxsryl51.jpg"
-},
-"96":{
-    "author": "t2_o3kpe",
-    "tag": "Impressionism",
-    "url": "https://i.redd.it/zyu3fp2thco41.jpg"
-},
-"97":{
-    "author": "t2_17bsqv",
-    "tag": "Impressionism",
-    "url": "https://i.redd.it/v8n13g3bgo941.jpg"
-},
-"98":{
-    "author": "t2_11lh0n",
-    "tag": "Post-Impressionism",
-    "url": "https://i.redd.it/3oa37bfx7m521.jpg"
-},
-"99":{
-    "author": "t2_iolve",
-    "tag": "Renaissance",
-    "url": "https://i.redd.it/kt2pefd3l5a61.jpg"
-},
-"100":{
-    "author": "t2_2i2r2k3f",
-    "tag": "Renaissance",
-    "url": "https://i.redd.it/5wk1x35kujp21.jpg"
-},
-"101":{
-    "author": "t2_pxqhq",
-    "tag": "Baroque",
-    "url": "https://i.redd.it/d5kth8mylup41.jpg"
-},
-"102":{
-    "author": "t2_7b2ya",
-    "tag": "Art_Deco",
-    "url": "https://i.imgur.com/Pl1SzEL.png"
-},
-"103":{
-    "author": "t2_2pfqr6y",
-    "tag": "Realism",
-    "url": "https://i.redd.it/ldprdwwylrv31.png"
-},
-"104":{
-    "author": "t2_6s9i2la",
-    "tag": "Impressionism",
-    "url": "https://i.imgur.com/T8gUKcI.jpg"
-},
-"105":{
-    "author": "t2_11j3gu",
-    "tag": "Regionalism",
-    "url": "https://imgur.com/do3MOdv"
-},
-"106":{
-    "author": "t2_c46gk",
-    "tag": "Baroque",
-    "url": "https://i.redd.it/csuzd8hum8441.jpg"
-},
-"107":{
-    "author": "t2_tzmoi",
-    "tag": "Contemporary",
-    "url": "https://i.redd.it/uugrglc3ewy31.jpg"
-},
-"108":{
-    "author": "t2_3x6rjy5d",
-    "tag": "Post-Modernism",
-    "url": "https://i.redd.it/y5fiy1j5tmm41.jpg"
-},
-"109":{
-    "author": "t2_4pp1zp2k",
-    "tag": "Realism",
-    "url": "https://i.redd.it/98g56bbdons41.jpg"
-},
-"110":{
-    "author": "t2_c46gk",
-    "tag": "Pre-Raphaelite",
-    "url": "https://i.redd.it/ap3oson64rh41.jpg"
-},
-"111":{
-    "author": "t2_du8ay",
-    "tag": "Renaissance",
-    "url": "https://i.imgur.com/VWErkDA.jpg"
-},
-"112":{
-    "author": "t2_3rl8bu62",
-    "tag": "Renaissance",
-    "url": "https://i.redd.it/ihdsbntllfz21.jpg"
-},
-"113":{
-    "author": "t2_13mwh3",
-    "tag": "Realism",
-    "url": "https://i.imgur.com/VtczzmH.jpg"
-},
-"114":{
-    "author": "t2_bb1qu",
-    "tag": "Pointillism",
-    "url": "https://i.redd.it/f8dgo6ai1jz41.jpg"
-},
-"115":{
-    "author": "t2_88h2qfn",
-    "tag": "Renaissance",
-    "url": "https://i.redd.it/8ymere8iwcg31.jpg"
-},
-"116":{
-    "author": "t2_4pp1zp2k",
-    "tag": "Impressionism",
-    "url": "https://i.redd.it/js5s6qlugcv41.jpg"
-},
-"117":{
-    "author": "t2_y19bdfw",
-    "tag": "Brutalism",
-    "url": "https://i.redd.it/ut66v3pla3651.jpg"
-},
-"118":{
-    "author": "t2_ftlt52r",
-    "tag": "Realism",
-    "url": "https://i.redd.it/bbgfg52je0151.jpg"
-},
-"119":{
-    "author": "t2_31e24",
-    "tag": "Art_Nouveau",
-    "url": "https://i.imgur.com/78g2xwi.jpg"
-},
-"120":{
-    "author": "t2_118y7p1s",
-    "tag": "Cubism",
-    "url": "https://i.imgur.com/15yLKjH.jpg"
-},
-"121":{
-    "author": "t2_bplnt",
-    "tag": "Baroque",
-    "url": "https://i.redd.it/66evljc9rrd41.jpg"
-},
-"122":{
-    "author": "t2_6m51f",
-    "tag": "Abstract_Expressionism",
-    "url": "https://i.redd.it/o8rpqo3kikx31.jpg"
-},
-"123":{
-    "author": "t2_3e358vv8",
-    "tag": "Baroque",
-    "url": "https://i.redd.it/ca5c2vo2yxq21.jpg"
-},
-"124":{
-    "author": "t2_2u9uezjt",
-    "tag": "Cubism",
-    "url": "https://i.redd.it/nap7jcatyls21.jpg"
-},
-"125":{
-    "author": "t2_9aapd61d",
-    "tag": "Surrealism",
-    "url": "https://i.redd.it/170sfn2krdi61.jpg"
-},
-"126":{
-    "author": "t2_c46gk",
-    "tag": "Romanticism",
-    "url": "https://i.redd.it/093rd53vi2f31.jpg"
-},
-"127":{
-    "author": "t2_yfj4m",
-    "tag": "Realism",
-    "url": "https://i.imgur.com/PskhIVz.jpg"
-},
-"128":{
-    "author": "t2_5u8vgprs",
-    "tag": "Renaissance",
-    "url": "https://i.imgur.com/kPb3yLr.jpg"
-},
-"129":{
-    "author": "t2_4pp1zp2k",
-    "tag": "Pop_Art",
-    "url": "https://i.redd.it/6hgnqt2ha3t41.jpg"
-},
-"130":{
-    "author": "t2_1mkydhei",
-    "tag": "Orientalism",
-    "url": "https://i.redd.it/kxztyvc0lnb41.jpg"
-},
-"131":{
-    "author": "t2_15e2ksmk",
-    "tag": "Impressionism",
-    "url": "https://i.redd.it/0144conykt951.jpg"
-},
-"132":{
-    "author": "t2_11k2gz",
-    "tag": "Contemporary",
-    "url": "https://i.redd.it/u9bsvfqry5f21.jpg"
-},
-"133":{
-    "author": "t2_1lyk01eh",
-    "tag": "Surrealism",
-    "url": "https://i.redd.it/ldj365z8acf41.jpg"
-},
-"134":{
-    "author": "t2_blhzs",
-    "tag": "Renaissance",
-    "url": "https://i.redd.it/9suqmi6uzm151.jpg"
-},
-"135":{
-    "author": "t2_32n5gusr",
-    "tag": "Modernism",
-    "url": "https://i.redd.it/hcnvt5o5nlc61.jpg"
-},
-"136":{
-    "author": "t2_jbcio",
-    "tag": "Romanticism",
-    "url": "https://i.redd.it/fl4rwj0788z51.jpg"
-},
-"137":{
-    "author": "t2_bplnt",
-    "tag": "Post-Modernism",
-    "url": "https://i.redd.it/9zmhje2x0cw41.jpg"
-},
-"138":{
-    "author": "t2_5df95xwa",
-    "tag": "Renaissance",
-    "url": "https://i.redd.it/wvljuszdequ41.jpg"
-},
-"139":{
-    "author": "t2_75lx6xh",
-    "tag": "Cubism",
-    "url": "https://i.redd.it/0338w2a36br31.jpg"
-},
-"140":{
-    "author": "t2_h8u8j",
-    "tag": "Romanticism",
-    "url": "https://i.redd.it/l9fthbui4h341.jpg"
-},
-"141":{
-    "author": "t2_3wmh1",
-    "tag": "Neoimpressionism",
-    "url": "https://i.redd.it/m1himn8aiej31.jpg"
-},
-"142":{
-    "author": "t2_cvqi7",
-    "tag": "Contemporary",
-    "url": "https://i.redd.it/pykjh81zg8n41.jpg"
-},
-"143":{
-    "author": "t2_2drx37cg",
-    "tag": "Renaissance",
-    "url": "https://i.redd.it/uyvu2dv7x5z41.jpg"
-},
-"144":{
-    "author": "t2_4d7he7xl",
-    "tag": "Realism",
-    "url": "https://i.redd.it/4z4t61w1doi61.jpg"
-},
-"145":{
-    "author": "t2_7bih5w",
+    "author": 1598850678.0,
     "tag": "Abstract_Expressionism",
     "url": "https://i.redd.it/4v3hgigvd5k51.jpg"
 },
-"146":{
-    "author": "t2_bplnt",
+"84":{
+    "author": 1578858126.0,
     "tag": "Post-Impressionism",
     "url": "https://i.redd.it/ukhh4idn4ca41.jpg"
 },
-"147":{
-    "author": "t2_3v5gapa9",
+"85":{
+    "author": 1574813628.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/s6u8x3y322141.jpg"
+},
+"86":{
+    "author": 1572889256.0,
+    "tag": "Baroque",
+    "url": "https://i.imgur.com/bFIVgFX.jpg"
+},
+"87":{
+    "author": 1573369699.0,
+    "tag": "Abstract_Expressionism",
+    "url": "https://i.redd.it/5t42au0rsqx31.jpg"
+},
+"88":{
+    "author": 1579852968.0,
+    "tag": "Impressionism",
+    "url": "https://i.imgur.com/h6BdYVV.jpg"
+},
+"89":{
+    "author": 1585171996.0,
+    "tag": "Northern_Baroque_",
+    "url": "https://i.redd.it/5r00xqmymto41.jpg"
+},
+"90":{
+    "author": 1605746588.0,
+    "tag": "Northern_Baroque_",
+    "url": "https://i.redd.it/sue6jsfto6801.jpg"
+},
+"91":{
+    "author": 1594978459.0,
+    "tag": "Neoclassicism",
+    "url": "https://i.redd.it/phmnsf1fr4b51.jpg"
+},
+"92":{
+    "author": 1604345842.0,
+    "tag": "Abstract",
+    "url": "https://i.imgur.com/eciYi4H.jpg"
+},
+"93":{
+    "author": 1599988811.0,
+    "tag": "Impressionism",
+    "url": "https://i.redd.it/yy05qea1htm51.jpg"
+},
+"94":{
+    "author": 1570051854.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/0w8qqpk3r4q31.jpg"
+},
+"95":{
+    "author": 1614063071.0,
+    "tag": "Expressionism",
+    "url": "https://i.redd.it/oz4xo7s6h2j61.jpg"
+},
+"96":{
+    "author": 1586006963.0,
+    "tag": "Romanticism",
+    "url": "https://i.redd.it/8fwiyrn3omq41.jpg"
+},
+"97":{
+    "author": 1609947163.0,
+    "tag": "Impressionism",
+    "url": "https://i.redd.it/nd00z793rm961.jpg"
+},
+"98":{
+    "author": 1565284682.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/2gsyr6guz6f31.jpg"
+},
+"99":{
+    "author": 1591991347.0,
+    "tag": "Surrealism",
+    "url": "https://i.redd.it/xz7i32chs9451.jpg"
+},
+"100":{
+    "author": 1579957062.0,
     "tag": "Realism",
-    "url": "https://i.redd.it/u5flecmda9q51.jpg"
+    "url": "https://i.redd.it/nyehgv9g9sc41.jpg"
+},
+"101":{
+    "author": 1611877976.0,
+    "tag": "Impressionism",
+    "url": "https://i.redd.it/4iawhsemh3e61.jpg"
+},
+"102":{
+    "author": 1582251486.0,
+    "tag": "Abstract",
+    "url": "https://i.redd.it/z44o03d51uh41.jpg"
+},
+"103":{
+    "author": 1571254777.0,
+    "tag": "Realism",
+    "url": "https://i.redd.it/glq80m3p0us31.jpg"
+},
+"104":{
+    "author": 1589615149.0,
+    "tag": "Futurism",
+    "url": "https://i.redd.it/06uzv3lgkxy41.jpg"
+},
+"105":{
+    "author": 1587833811.0,
+    "tag": "Minimalism",
+    "url": "https://i.redd.it/si89krazhxu41.jpg"
+},
+"106":{
+    "author": 1583366495.0,
+    "tag": "Mildly_Realism",
+    "url": "https://i.redd.it/tbu4i5k6hkk41.jpg"
+},
+"107":{
+    "author": 1609992578.0,
+    "tag": "Classicism",
+    "url": "https://i.redd.it/59os5sldrr961.jpg"
+},
+"108":{
+    "author": 1589476053.0,
+    "tag": "Impressionism",
+    "url": "https://i.redd.it/x400z44u4py41.jpg"
+},
+"109":{
+    "author": 1565379505.0,
+    "tag": "Impressionism",
+    "url": "https://i.imgur.com/t41ULQF.jpg"
+},
+"110":{
+    "author": 1581801810.0,
+    "tag": "Surrealism",
+    "url": "https://i.redd.it/v9mq2xxeyzg41.jpg"
+},
+"111":{
+    "author": 1552362561.0,
+    "tag": "Baroque",
+    "url": "https://i.imgur.com/VWliaNj.jpg"
+},
+"112":{
+    "author": 1508226053.0,
+    "tag": "Literati",
+    "url": "https://i.redd.it/ctgi7a653asz.jpg"
+},
+"113":{
+    "author": 1603150182.0,
+    "tag": "Realism",
+    "url": "https://i.redd.it/1zjk25vckzt51.jpg"
+},
+"114":{
+    "author": 1576388422.0,
+    "tag": "Abstract",
+    "url": "https://i.redd.it/a60rqlww4o441.jpg"
+},
+"115":{
+    "author": 1563147654.0,
+    "tag": "Ukiyo-e",
+    "url": "https://i.redd.it/sbhlvszvv6a31.jpg"
+},
+"116":{
+    "author": 1580539139.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/tzb1x346z6e41.jpg"
+},
+"117":{
+    "author": 1584302127.0,
+    "tag": "Abstract",
+    "url": "https://i.redd.it/1s7ji89gstm41.jpg"
+},
+"118":{
+    "author": 1607819158.0,
+    "tag": "Modernism",
+    "url": "https://i.redd.it/vadx03vn8s461.jpg"
+},
+"119":{
+    "author": 1593436224.0,
+    "tag": "Surrealism",
+    "url": "https://i.redd.it/cknxwrzwwp751.jpg"
+},
+"120":{
+    "author": 1597216267.0,
+    "tag": "Brutalism",
+    "url": "https://i.redd.it/s7e5j9llggg51.jpg"
+},
+"121":{
+    "author": 1585332630.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/651lzrfo3zo41.jpg"
+},
+"122":{
+    "author": 1577409056.0,
+    "tag": "Baroque",
+    "url": "https://i.redd.it/3v9not3kdw641.jpg"
+},
+"123":{
+    "author": 1580617950.0,
+    "tag": "Baroque",
+    "url": "https://i.redd.it/0alrn53jhde41.jpg"
+},
+"124":{
+    "author": 1576772522.0,
+    "tag": "Abstract",
+    "url": "https://i.redd.it/zdx1bob3vj541.jpg"
+},
+"125":{
+    "author": 1614199239.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/m27zwee83ej61.jpg"
+},
+"126":{
+    "author": 1583502904.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/am28ytk8dyk41.jpg"
+},
+"127":{
+    "author": 1543205218.0,
+    "tag": "Impressionism",
+    "url": "https://i.redd.it/fn02dwodqg021.jpg"
+},
+"128":{
+    "author": 1493863726.0,
+    "tag": "Post-Impressionism",
+    "url": "https://i.redd.it/bw2goadbx2vy.jpg"
+},
+"129":{
+    "author": 1575779793.0,
+    "tag": "Neoclassicism",
+    "url": "https://imgur.com/BMsq42A"
+},
+"130":{
+    "author": 1565628047.0,
+    "tag": "Hellenistic",
+    "url": "https://i.redd.it/h85v76q17wf31.jpg"
+},
+"131":{
+    "author": 1573487865.0,
+    "tag": "Baroque",
+    "url": "https://i.redd.it/cahiw0ecj0y31.jpg"
+},
+"132":{
+    "author": 1580187354.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/esphdal68bd41.jpg"
+},
+"133":{
+    "author": 1578034446.0,
+    "tag": "Realism",
+    "url": "https://i.redd.it/ju625kjbdb841.png"
+},
+"134":{
+    "author": 1566142715.0,
+    "tag": "Neoimpressionism",
+    "url": "https://i.redd.it/oqmzvv2g01h31.jpg"
+},
+"135":{
+    "author": 1584596496.0,
+    "tag": "Mannerism",
+    "url": "https://i.redd.it/8tfibdw5bgn41.jpg"
+},
+"136":{
+    "author": 1503691985.0,
+    "tag": "Dutch/Flemish",
+    "url": "http://i.imgur.com/p639qx4.jpg"
+},
+"137":{
+    "author": 1571535458.0,
+    "tag": "Romanticism",
+    "url": "https://i.imgur.com/w6bhNHa.jpg"
+},
+"138":{
+    "author": 1609448371.0,
+    "tag": "Surrealism",
+    "url": "https://i.redd.it/t10gtgxx13d51.jpg"
+},
+"139":{
+    "author": 1584191198.0,
+    "tag": "Expressionism",
+    "url": "https://i.redd.it/juige3m4vfm41.jpg"
+},
+"140":{
+    "author": 1574207388.0,
+    "tag": "Abstract_Expressionism",
+    "url": "https://i.redd.it/8kim62hmznz31.jpg"
+},
+"141":{
+    "author": 1566856943.0,
+    "tag": "Impressionism",
+    "url": "https://i.imgur.com/k95BZLK.jpg"
+},
+"142":{
+    "author": 1588291502.0,
+    "tag": "Baroque",
+    "url": "https://i.redd.it/hlrh6wodjsv41.jpg"
+},
+"143":{
+    "author": 1583820881.0,
+    "tag": "Romanticism",
+    "url": "https://i.redd.it/h6qt5q1v9ol41.jpg"
+},
+"144":{
+    "author": 1595302795.0,
+    "tag": "Neoclassicism",
+    "url": "https://i.redd.it/3a0j3grh40c51.jpg"
+},
+"145":{
+    "author": 1614740296.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/belm6p5h5kk61.jpg"
+},
+"146":{
+    "author": 1590103112.0,
+    "tag": "Hudson_River_School",
+    "url": "https://i.redd.it/w5gs4d79e1051.jpg"
+},
+"147":{
+    "author": 1577150019.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/i4esltyg1f641.jpg"
 },
 "148":{
-    "author": "t2_8dwe9",
-    "tag": "Modernism",
-    "url": "https://i.redd.it/1ekdjagmwv851.jpg"
+    "author": 1568503203.0,
+    "tag": "American_Luminism",
+    "url": "https://i.redd.it/ex481e06ukm31.jpg"
 },
 "149":{
-    "author": "t2_45dqmgdn",
-    "tag": "Realism",
-    "url": "https://i.redd.it/vcrpcbpx1f461.jpg"
+    "author": 1565584137.0,
+    "tag": "Modernism",
+    "url": "https://i.redd.it/xuzt1f7aqvf31.jpg"
 },
 "150":{
-    "author": "t2_a0gef",
-    "tag": "Realism",
-    "url": "https://i.redd.it/rq3c8damy7761.jpg"
+    "author": 1584689424.0,
+    "tag": "Expressionism",
+    "url": "https://i.redd.it/ivh5gow3spn41.jpg"
 },
 "151":{
-    "author": "t2_bplnt",
-    "tag": "Pointillism",
-    "url": "https://i.redd.it/qd7i4fbkdn851.jpg"
+    "author": 1573165427.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/q86mtdi8x9x31.jpg"
 },
 "152":{
-    "author": "t2_9psq6",
-    "tag": "Renaissance",
-    "url": "https://i.redd.it/oicod9rr9m551.jpg"
+    "author": 1607193697.0,
+    "tag": "Minimalism",
+    "url": "https://i.imgur.com/1YBj3xI.jpg"
 },
 "153":{
-    "author": "t2_1vwwfip2",
-    "tag": "Renaissance",
-    "url": "https://i.redd.it/amsax2syask41.jpg"
+    "author": 1613034312.0,
+    "tag": "Baroque",
+    "url": "https://i.redd.it/be2dtwx6bqg61.jpg"
 },
 "154":{
-    "author": "t2_m0z27y8",
-    "tag": "Impressionism",
-    "url": "http://i.imgur.com/MiDB1ar.jpg"
+    "author": 1571731809.0,
+    "tag": "Surrealism",
+    "url": "https://i.redd.it/kpawx3qeizt31.jpg"
 },
 "155":{
-    "author": "t2_bplnt",
-    "tag": "Impressionism",
-    "url": "https://i.redd.it/8292fzyx8g751.jpg"
+    "author": 1614911613.0,
+    "tag": "Baroque",
+    "url": "https://i.imgur.com/PnDFnXG.jpg"
 },
 "156":{
-    "author": "t2_253795zz",
+    "author": 1606823819.0,
     "tag": "Realism",
-    "url": "https://i.redd.it/r3ibnz7yevd51.jpg"
+    "url": "https://i.redd.it/xmshjfx01i261.jpg"
 },
 "157":{
-    "author": "t2_3tdn6",
-    "tag": "Cubism",
-    "url": "https://i.redd.it/3s9sk4tjq4r51.jpg"
+    "author": 1580109217.0,
+    "tag": "Baroque",
+    "url": "https://i.redd.it/gfcq3irrb6d41.jpg"
 },
 "158":{
-    "author": "t2_1ynrmfq6",
-    "tag": "Renaissance",
-    "url": "https://i.redd.it/k9ty92sjyjh31.jpg"
+    "author": 1586929616.0,
+    "tag": "Baroque",
+    "url": "https://i.redd.it/57ak4xilbss41.jpg"
 },
 "159":{
-    "author": "t2_502bt",
-    "tag": "Neoclassicism",
-    "url": "https://i.redd.it/yvol1tyyuyb41.png"
+    "author": 1578448701.0,
+    "tag": "Renaissance",
+    "url": "https://i.redd.it/jm8ntqbbae941.jpg"
 },
 "160":{
-    "author": "t2_asjcv",
-    "tag": "Baroque",
-    "url": "https://i.imgur.com/X4koZPp.jpg"
+    "author": 1597539581.0,
+    "tag": "Northern_Baroque_",
+    "url": "https://i.redd.it/34wpnq0867h51.jpg"
 },
 "161":{
-    "author": "t2_vpdvw",
-    "tag": "Modernism",
-    "url": "https://i.redd.it/lk6baemfeor41.jpg"
+    "author": 1537919675.0,
+    "tag": "Contemporary",
+    "url": "https://i.redd.it/ye1goeowoeo11.jpg"
 },
 "162":{
-    "author": "t2_c46gk",
-    "tag": "Northern_Baroque_",
-    "url": "https://i.redd.it/g6dtm28r1bv21.jpg"
+    "author": 1591764362.0,
+    "tag": "Regionalism",
+    "url": "https://i.redd.it/yh8x50kf7w351.jpg"
 },
 "163":{
-    "author": "t2_6ldibnuu",
-    "tag": "Impressionism",
-    "url": "https://v.redd.it/uc9kw1h6e4861"
+    "author": 1605092861.0,
+    "tag": "Renaissance",
+    "url": "https://i.imgur.com/ZEs9WYt.jpg"
 },
 "164":{
-    "author": "t2_1hm4cd1z",
-    "tag": "Renaissance",
-    "url": "https://i.redd.it/mpbf9edhhb041.jpg"
-},
-"165":{
-    "author": "t2_bplnt",
-    "tag": "Romanticism",
-    "url": "https://i.redd.it/ct73yx9lpma41.jpg"
-},
-"166":{
-    "author": "t2_c46gk",
-    "tag": "Ukiyo-e",
-    "url": "https://i.redd.it/dwk1gdr2ham51.jpg"
-},
-"167":{
-    "author": "t2_cplcm",
-    "tag": "Baroque",
-    "url": "https://i.redd.it/kjf42ol41qt41.jpg"
+    "author": 1588630358.0,
+    "tag": "Classicism",
+    "url": "https://i.redd.it/t2jc3pqztow41.jpg"
 }}

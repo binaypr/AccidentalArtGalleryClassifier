@@ -17,7 +17,15 @@ def get200():
         base_url = 'https://www.reddit.com/r/AccidentalArtGallery/top/.json?limit=100&t=all&after=t3_el23h4'
         request = requests.get(base_url, headers = {'User-agent': 'Mgaodd\'s Potential Classifier'})
         array_200 = array + parseURL(request.json())
+
+        base_url = 'https://www.reddit.com/r/AccidentalArtGallery/top/.json?limit=100&t=all&after=t3_g434oz'
+        request = requests.get(base_url, headers = {'User-agent': 'Mgaodd\'s Potential Classifier'})
+        
+        array_200 = array + parseURL(request.json())
+
+
         return array_200
+
     except:
         print(array_200)
         print(array)
@@ -36,7 +44,7 @@ def parseURL(data):
         url = data['data']['children'][x]['data']['url']
         if "external" in url:
             continue;
-        author = data['data']['children'][x]['data']['author_fullname']
+        author = data['data']['children'][x]['data']['created']
         temp = CustomImage(url, flair, author)
         array.append(temp)
     return array
@@ -53,7 +61,7 @@ class CustomImage:
     def __init__(self, url, tag, author):
         self.url = url;
         self.tag = tag.replace(" ", "_");
-        self.author = author
+        self.author = author        
         # print(self.url, self.tag, self.author)
 
     def __str__(self):
@@ -122,6 +130,7 @@ class CustomImage:
         num = 1;
         try:
             OrigImg = Image.open(requests.get(self.url, stream=True).raw)
+            OrigImg =  OrigImg.resize((512, 512), Image.NEAREST)
             OrigImg.save("data/" + self.tag + "/" + self.author + "_" + str(num) +".jpg")
             print(self.author, "has been saved in: ", self.tag)
         except Exception as e:
@@ -147,23 +156,32 @@ def writeImageArrayToFile(data):
 
 # savedData[8].saveImage()
 
-# data = get200();
-# writeImageArrayToFile(data);
+data = get200();
+writeImageArrayToFile(data);
 
 
 data = getSaved()
 
 print(len(data))
 imageArray = []
+print(data)
 for x in data:
-    print(data[x]['url'], data[x]['tag'])
+    print(data[x]['url'], data[x]['tag'], data[x]['author'])
+    imageArray = imageArray + [CustomImage(data[x]['url'], data[x]['tag'], data[x]['author'])]
 
 
-        
 
-# for x in savedData:
-#     x.saveImage()
-#     time.sleep(20)
+print(imageArray)
+
+#Testing Image Array Saver
+for x in range(10):
+    imageArray[x].saveImage();
+    time.sleep(20);
+
+
+# for x in imageArray:
+#      x.saveImage()
+#      time.sleep(20)
 
 
 
