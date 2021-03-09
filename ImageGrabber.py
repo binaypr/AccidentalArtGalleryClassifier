@@ -131,7 +131,7 @@ class CustomImage:
         try:
             OrigImg = Image.open(requests.get(self.url, stream=True).raw)
             OrigImg =  OrigImg.resize((512, 512), Image.NEAREST)
-            OrigImg.save("data/" + self.tag + "/" + self.author + "_" + str(num) +".jpg")
+            OrigImg.save("data/" + self.tag + "/" + str(self.author) + "_" + str(num) +".jpg")
             print(self.author, "has been saved in: ", self.tag)
         except Exception as e:
             print(self, "Error: ", repr(e))
@@ -156,32 +156,35 @@ def writeImageArrayToFile(data):
 
 # savedData[8].saveImage()
 
-data = get200();
-writeImageArrayToFile(data);
+# data = get200();
+# writeImageArrayToFile(data);
 
 
-data = getSaved()
+# data = getSaved()
 
-print(len(data))
-imageArray = []
-print(data)
-for x in data:
-    print(data[x]['url'], data[x]['tag'], data[x]['author'])
-    imageArray = imageArray + [CustomImage(data[x]['url'], data[x]['tag'], data[x]['author'])]
+# print(len(data))
+# imageArray = []
+# print(data)
+# for x in data:
+#     print(data[x]['url'], data[x]['tag'], data[x]['author'])
+#     imageArray = imageArray + [CustomImage(data[x]['url'], data[x]['tag'], data[x]['author'])]
 
 
 
-print(imageArray)
+# print(imageArray)
+
+x =CustomImage("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1920px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg","apple", "me")
+x.saveImage()
 
 #Testing Image Array Saver
-for x in range(10):
-    imageArray[x].saveImage();
-    time.sleep(20);
+# for x in range(10):
+#     imageArray[x].saveImage();
+#     time.sleep(20);
 
 
-# for x in imageArray:
+# for x in imageArray[10:]:
 #      x.saveImage()
-#      time.sleep(20)
+#      time.sleep(25)
 
 
 
