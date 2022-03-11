@@ -1,0 +1,1 @@
+cannot identify image file <_io.BytesIO object at 0x00000247A94AACC0> ||| https://www.artic.edu/iiif/2/38bd7a08-4be9-616b-4355-2ad2969ac612/full/843,/0/default.jpg ||| 38bd7a08-4be9-616b-4355-2ad2969ac612  
